@@ -24,7 +24,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
-public class BTConnections extends AppCompatActivity implements View.OnClickListener{
+public class BTConnections extends AppCompatActivity implements UIEvents{
 
     //Constants
     private static final int REQUEST_ENABLE_BT = 1;
@@ -141,6 +141,7 @@ public class BTConnections extends AppCompatActivity implements View.OnClickList
 
             case R.id.disconnectBtn:
                 //TODO: disconnectDevice(String deviceAdress)
+
         }
     }
 
