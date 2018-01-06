@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bluetooth Chat</string>
+    <string name="bt1label">New Connections</string>
+    <string name="bt2label">Quit BTchat</string>
+    <string name="connectBtLabel">Connect</string>
+    <string name="disconnectBtLabel">Disconnect</string>
+    <string name="discoverBtLabel">Discover Devices</string>
+</resources>
